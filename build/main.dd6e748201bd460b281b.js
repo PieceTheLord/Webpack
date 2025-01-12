@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("1 + 2 is equals to",3)})();
